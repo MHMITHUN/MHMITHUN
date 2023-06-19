@@ -35,7 +35,7 @@
 <a href="https://www.leetcode.com/mh_mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mh_mithun" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mhmmithun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mhmmithun1" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mh_mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mh_mithun" height="30" width="40" /></a>
-<a href="https://discord.gg/Mahamudul Hasan#9403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahamudul Hasan#9403" height="30" width="40" /></a>
+<a href="https://discord.gg/.mahamudulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahamudul Hasan#9403" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
