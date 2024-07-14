@@ -48,4 +48,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmithun&" alt="mhmithun" /></p>
 
 
-![Snake animation](https://raw.githubusercontent.com/MHMITHUN/MHMITHUN/output/github-contribution-grid-snake-dark.svg)
+
