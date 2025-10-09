@@ -1,0 +1,31 @@
+name: Update Streak SVG
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"  
+  workflow_dispatch:
+
+permissions:
+  contents: write 
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download streak SVG
+        run: |
+          mkdir -p assets
+          curl -sL "https://streak-stats.demolab.com?user=mhmithun&theme=radical&hide_border=true&count_private=true" -o assets/streak.svg
+          test -s assets/streak.svg
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/streak.svg
+            git commit -m "chore: update streak.svg"
+            git push
+          fi
