@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahamudul-hasan-mithun-5b0935252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mhmmithun1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.facebook.com/deenislam99" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://fb.com/cicada99" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
@@ -55,11 +55,6 @@
 </div>
 
 <!-- activity:START -->
-- [MHMITHUN pushed MHMITHUN](https://github.com/MHMITHUN/MHMITHUN/compare/3da8a1084d...6a2638a157)
-- [MHMITHUN pushed MHMITHUN](https://github.com/MHMITHUN/MHMITHUN/compare/87eaf58ad9...423bc87157)
-- [MHMITHUN pushed MHMITHUN](https://github.com/MHMITHUN/MHMITHUN/compare/ad2a8004d8...87eaf58ad9)
-- [MHMITHUN pushed MHMITHUN](https://github.com/MHMITHUN/MHMITHUN/compare/81e63529da...ad2a8004d8)
-- [MHMITHUN pushed MHMITHUN](https://github.com/MHMITHUN/MHMITHUN/compare/d618c62e4d...81e63529da)
 <!-- activity:END -->
 
 <br>
@@ -74,7 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mhmithun&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="mhmithun's GitHub stats" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmithun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
     <br><br>
-    <img src="https://github-readme-streak-stats.vercel.app/?user=mhmithun&theme=radical&hide_border=true&count_private=true" alt="GitHub Streak" width="60%"/>
+    <img src="https://streak-stats.demolab.com?user=mhmithun&theme=radical&hide_border=true&count_private=true&v=2" alt="GitHub Streak" width="60%"/>
   </div>
 </div>
 
