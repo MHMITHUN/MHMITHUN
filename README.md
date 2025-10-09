@@ -52,7 +52,10 @@
 
 <div style="background-color: #161B22; border-radius: 10px; padding: 20px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);">
   <h2 align="center" style="color: #58A6FF;">⚡ Recent GitHub Activity</h2>
-  </div>
+</div>
+
+<!-- activity:START -->
+<!-- activity:END -->
 
 <br>
 
