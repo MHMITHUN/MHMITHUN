@@ -2,11 +2,11 @@ name: Update Streak SVG
 
 on:
   schedule:
-    - cron: "0 */1 * * *"  
+    - cron: "*/1 * * * *"  
   workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   fetch-and-commit:
