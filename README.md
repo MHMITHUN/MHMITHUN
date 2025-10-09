@@ -1,134 +1,78 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/b5/fe/06/b5fe06e0210456a45763bf4514299909.gif" width="100%" alt="Animated Banner">
 
+  <a href="https://holopin.io/@mhmithun">
+    <img src="https://holopin.me/mhmithun" alt="@mhmithun's Holopin badges" style="margin-top: 10px; border-radius: 10px;">
+  </a>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Mahamudul+Hasan+Mithun+%F0%9F%91%8B;A+passionate+Full-Stack+Software+Engineer;DevOps+Enthusiast+%26+QA+Automation+Expert;Always+learning+and+growing!&duration=3000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Mahamudul+Hasan+Mithun+%F0%9F%91%8B;Full-Stack+Software+Engineer;DevOps+%26+Cloud+Enthusiast;QA+Automation+Specialist;Building+the+Future%2C+One+Line+of+Code+at+a+Time." alt="Typing SVG" />
   </a>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mhmithun&label=PROFILE%20VIEWS&color=00BFFF&style=flat-square" alt="Profile views" />
+</div>
+
+<div style="background-color: #161B22; border-radius: 10px; padding: 20px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);">
+  <h2 align="center" style="color: #58A6FF;">👨‍💻 About Me</h2>
+  <p align="center" style="color: #C9D1D9; font-size: 16px;">
+    I'm a passionate and results-driven Software Engineer from <strong>Bangladesh 🇧🇩</strong> with expertise across the full software development lifecycle. My journey in tech is fueled by a love for solving complex problems and building efficient, scalable, and high-quality software solutions. I thrive in collaborative environments and am always eager to learn new technologies.
   </p>
-  
 </div>
 
----
+<br>
 
-### 👨‍💻 About Me
-
-<p align="left">
-  I'm a passionate and results-driven Software Engineer from <strong>Bangladesh 🇧🇩</strong> with expertise across the full software development lifecycle. My journey in tech is fueled by a love for solving complex problems and building efficient, scalable, and high-quality software solutions.
-</p>
-
-- 🌱 I’m currently diving deep into **Cloud Native technologies** and **System Design**.
-- 👯 I’m looking to collaborate on **Open Source MERN/DevOps projects**.
-- 🤔 I’m looking for help with **Advanced Golang concepts**.
-- 💬 Ask me about anything related to **JavaScript, React, Node.js, API Testing, and CI/CD pipelines**.
-- 📫 How to reach me: **mhmmithun1@gmail.com**
-- ⚡ Fun fact: I believe the best code is the code that's never written.
-
----
-
-### 🤝 Connect with Me
-
+<h3 align="center" style="color: #58A6FF;">🤝 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahamudul-hasan-mithun-5b0935252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mhmmithun1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://stackoverflow.com/users/20998842" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://leetcode.com/mh_mithun" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://fb.com/cicada99" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mahamudul-hasan-mithun-5b0935252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mhmmithun1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://fb.com/cicada99" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.youtube.com/c/mahamudul hasan mithun" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://discord.gg/.mahamudulhasan" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+<p align="center">
+  <a href="https://www.leetcode.com/mh_mithun" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://stackoverflow.com/users/20998842" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://codeforces.com/profile/mahamudul_hasan.0" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.hackerrank.com/mh_mithun" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/mh_mithun" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.hackerearth.com/@mhmmithun1" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=white" alt="HackerEarth"/></a>
+  <a href="https://www.topcoder.com/members/mh_mithun" target="_blank"><img src="https://img.shields.io/badge/TopCoder-29A8DE?style=for-the-badge&logo=TopCoder&logoColor=white" alt="TopCoder"/></a>
+  <a href="https://codepen.io/Mahamudul-Hasan-Mithun" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
 </p>
 
----
-
-### 🛠️ My Tech Stack & Tools
-
-<details>
-  <summary><strong>Click to expand my tech arsenal</strong></summary>
-  <br/>
-  <table width="100%">
-    <tr>
-      <td align="center" width="200">
-        <h4>Programming Languages</h4>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-        <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-      </td>
-      <td align="center" width="200">
-        <h4>Frontend Development</h4>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-      </td>
-      <td align="center" width="200">
-        <h4>Backend Development</h4>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <h4>Databases</h4>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-      </td>
-      <td align="center" width="200">
-        <h4>DevOps & Cloud</h4>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-        <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-      </td>
-      <td align="center" width="200">
-        <h4>QA & Testing</h4>
-        <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-        <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16962925/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
-        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-        <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_JMeter_logo.svg/1200px-Apache_JMeter_logo.svg.png" alt="jmeter" width="40" height="40"/></a>
-        <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-      </td>
-    </tr>
-  </table>
-</details>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<div align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mhmithun&theme=radical&row=1&column=7" alt="mhmithun" />
-  </a>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmithun&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="mhmithun's GitHub stats" width="48%"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmithun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmithun&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+<div style="background-color: #161B22; border-radius: 10px; padding: 20px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);">
+  <h2 align="center" style="color: #58A6FF;">🛠️ My Tech Stack & Tools</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,html,css,linux,git&perline=9" />
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="48" height="48"/> </a>
+  </p>
 </div>
 
----
+<br>
 
-### 🐍 My GitHub Contribution
+<div style="background-color: #161B22; border-radius: 10px; padding: 20px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);">
+  <h2 align="center" style="color: #58A6FF;">⚡ Recent GitHub Activity</h2>
+  </div>
+
+<br>
+
+<div style="background-color: #161B22; border-radius: 10px; padding: 20px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);">
+  <h2 align="center" style="color: #58A6FF;">📊 My GitHub Stats & Trophies</h2>
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=mhmithun&theme=radical&row=1&column=7" alt="mhmithun" />
+    </a>
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=mhmithun&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="mhmithun's GitHub stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmithun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmithun&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
+  </div>
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github.com/mhmithun/mhmithun/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <h2 style="color: #58A6FF;">🐍 My Contribution Graph</h2>
+  <img src="https://github.com/mhmithun/mhmithun/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
