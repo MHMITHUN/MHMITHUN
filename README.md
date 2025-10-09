@@ -41,9 +41,9 @@
 </p>
 
 <div style="background-color: #161B22; border-radius: 10px; padding: 20px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);">
-  <h2 align="center" style="color: #58A6FF;">🛠️ My Tech Stack & Tools</h2>
+  <h2 align="center" style="color: #58A6FF;">🛠️ My Tech Stack & Tools (Expanded)</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,html,css,linux,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js,ts,html,css,sass,react,redux,nextjs,vite,tailwind,nodejs,express,nestjs,mongodb,mysql,postgres,redis,docker,kubernetes,aws,gcp,jenkins,git,githubactions,postman,selenium,jest,figma,linux,nginx,vscode&perline=10" />
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="48" height="48"/> </a>
   </p>
 </div>
@@ -66,7 +66,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mhmithun&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="mhmithun's GitHub stats" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmithun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmithun&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
+    <img src="https://github-readme-streak-stats.vercel.app/?user=mhmithun&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
   </div>
 </div>
 
@@ -74,5 +74,5 @@
 
 <div align="center">
   <h2 style="color: #58A6FF;">🐍 My Contribution Graph</h2>
-  <img src="https://github.com/mhmithun/mhmithun/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/mhmithun/mhmithun/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
