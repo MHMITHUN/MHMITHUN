@@ -21,6 +21,24 @@
 
 <br>
 
+
+
+
+<div style="background-color: #161B22; border-radius: 10px; padding: 20px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);">
+  <h2 align="center" style="color: #58A6FF;">
+    <img src="https://raw.githubusercontent.com/Ahmed-Adel-Ismail/Ahmed-Adel-Ismail/main/images/stats.gif" width="40" />
+    Visitor Insights
+  </h2>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mhmithun&label=PROFILE%20VIEWS&color=9745FF&style=for-the-badge" alt="Profile views"/>
+  </p>
+</div>
+
+<br>
+
+
+
+
 <h3 align="center" style="color: #58A6FF;">🤝 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mahamudul-hasan-mithun-5b0935252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
