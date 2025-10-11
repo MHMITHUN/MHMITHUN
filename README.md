@@ -4,6 +4,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="GitHub Banner">
 </p>
 
+<h3 align="center">
+  <span style="font-size: 1.5em; color: #ff6f61; text-shadow: 2px 2px 8px #ff0000;">🏅 My All Achievement Badge ❤️💕 🏅</span>
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="3D Animated Badge" width="400">
+</p>
+
   <a href="https://holopin.io/@mhmithun">
     <img src="https://holopin.me/mhmithun" alt="@mhmithun's Holopin badges" style="margin-top: 10px; border-radius: 10px;">
   </a>
