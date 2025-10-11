@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="25" height="25" />
-
+![GitHub Banner](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)
+  
   <a href="https://holopin.io/@mhmithun">
     <img src="https://holopin.me/mhmithun" alt="@mhmithun's Holopin badges" style="margin-top: 10px; border-radius: 10px;">
   </a>
