@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b5/fe/06/b5fe06e0210456a45763bf4514299909.gif" width="100%" alt="Animated Banner">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="25" height="25" />
 
   <a href="https://holopin.io/@mhmithun">
     <img src="https://holopin.me/mhmithun" alt="@mhmithun's Holopin badges" style="margin-top: 10px; border-radius: 10px;">
