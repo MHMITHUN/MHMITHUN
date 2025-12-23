@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)
+- [MHMITHUN starred HasanC14/PrayerTime](https://github.com/HasanC14/PrayerTime)
 - [MHMITHUN created a branch](https://github.com/MHMITHUN/QuizCraft-Intelligent-Quiz-Ai-Application-SDP/compare/0000000000...1c0ed1cef3)
 - [MHMITHUN pushed Matrimony-Website-Server--PH-A-12](https://github.com/MHMITHUN/Matrimony-Website-Server--PH-A-12/compare/be35b2c168...bf1235eddd)
 - [MHMITHUN pushed Matrimony-Website-Client--PH-A-12](https://github.com/MHMITHUN/Matrimony-Website-Client--PH-A-12/compare/a03b723484...f738cea5e8)
-- [MHMITHUN pushed Matrimony-Website-Server--PH-A-12](https://github.com/MHMITHUN/Matrimony-Website-Server--PH-A-12/compare/8e3a4d39c4...be35b2c168)
-- [MHMITHUN pushed Matrimony-Website-Client--PH-A-12](https://github.com/MHMITHUN/Matrimony-Website-Client--PH-A-12/compare/696ee1b573...a03b723484)
 <!-- activity:END -->
 
 <br>
