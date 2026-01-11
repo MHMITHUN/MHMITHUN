@@ -70,10 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/c387917c5b...fd10e35d72)
+- [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/d738b7aa85...c387917c5b)
+- [MHMITHUN created a branch](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/0000000000...d738b7aa85)
 - [MHMITHUN starred aniruddha-adhikary/mrt-buddy](https://github.com/aniruddha-adhikary/mrt-buddy)
 - [MHMITHUN starred batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)
-- [MHMITHUN starred HasanC14/PrayerTime](https://github.com/HasanC14/PrayerTime)
-- [MHMITHUN created a branch](https://github.com/MHMITHUN/QuizCraft-Intelligent-Quiz-Ai-Application-SDP/compare/0000000000...1c0ed1cef3)
 <!-- activity:END -->
 
 <br>
