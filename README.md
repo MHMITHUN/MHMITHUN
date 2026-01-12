@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/f53c1fb752...bbbcb5272a)
+- [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/25bc001241...f53c1fb752)
 - [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/fd10e35d72...25bc001241)
 - [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/c387917c5b...fd10e35d72)
 - [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/d738b7aa85...c387917c5b)
-- [MHMITHUN created a branch](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/0000000000...d738b7aa85)
-- [MHMITHUN starred aniruddha-adhikary/mrt-buddy](https://github.com/aniruddha-adhikary/mrt-buddy)
 <!-- activity:END -->
 
 <br>
