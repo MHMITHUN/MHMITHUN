@@ -73,7 +73,6 @@
 - [MHMITHUN starred FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/bce34496aa...20bc0dc796)
 - [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/8844d3b29d...bce34496aa)
-- [MHMITHUN pushed Mahamudul-Note-Application](https://github.com/MHMITHUN/Mahamudul-Note-Application/compare/6181dbdaf6...8844d3b29d)
 <!-- activity:END -->
 
 <br>
