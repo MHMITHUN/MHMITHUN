@@ -70,6 +70,7 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN forked MHMITHUN/PrayerTime-Extension from HasanC14/PrayerTime](https://github.com/MHMITHUN/PrayerTime-Extension)
 - [MHMITHUN starred FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 <!-- activity:END -->
 
