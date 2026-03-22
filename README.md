@@ -73,6 +73,7 @@
 - [MHMITHUN opened an issue in AnonymousPAK-DDoS](https://github.com/UBISOFT-1/AnonymousPAK-DDoS/issues/6)
 - [MHMITHUN commented on an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/3#issuecomment-3994561542)
 - [MHMITHUN opened an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/5)
+- [MHMITHUN forked MHMITHUN/PrayerTime-Extension from HasanC14/PrayerTime](https://github.com/MHMITHUN/PrayerTime-Extension)
 <!-- activity:END -->
 
 <br>
