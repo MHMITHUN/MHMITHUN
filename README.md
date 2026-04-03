@@ -70,9 +70,8 @@
 </div>
 
 <!-- activity:START -->
-- [MHMITHUN opened an issue in AnonymousPAK-DDoS](https://github.com/UBISOFT-1/AnonymousPAK-DDoS/issues/6)
-- [MHMITHUN commented on an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/3#issuecomment-3994561542)
-- [MHMITHUN opened an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/5)
+- [MHMITHUN opened an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/6)
+- [MHMITHUN commented on an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/5#issuecomment-4184676393)
 <!-- activity:END -->
 
 <br>
