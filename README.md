@@ -70,6 +70,7 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
 - [MHMITHUN starred spider-themes/antimanual-builder-public](https://github.com/spider-themes/antimanual-builder-public)
 - [MHMITHUN opened an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/6)
 - [MHMITHUN commented on an issue in ddos_python3](https://github.com/KhanhNguyen9872/ddos_python3/issues/5#issuecomment-4184676393)
