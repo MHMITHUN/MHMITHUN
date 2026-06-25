@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred nexu-io/open-design](https://github.com/nexu-io/open-design)
 - [MHMITHUN starred microsoft/markitdown](https://github.com/microsoft/markitdown)
 - [MHMITHUN starred bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 - [MHMITHUN starred Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 - [MHMITHUN starred WordPress/agent-skills](https://github.com/WordPress/agent-skills)
-- [MHMITHUN starred upstash/context7](https://github.com/upstash/context7)
 <!-- activity:END -->
 
 <br>
