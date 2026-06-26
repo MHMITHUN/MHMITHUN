@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM)
 - [MHMITHUN starred baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
 - [MHMITHUN starred nexu-io/open-design](https://github.com/nexu-io/open-design)
 - [MHMITHUN starred microsoft/markitdown](https://github.com/microsoft/markitdown)
 - [MHMITHUN starred bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
-- [MHMITHUN starred Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 <!-- activity:END -->
 
 <br>
