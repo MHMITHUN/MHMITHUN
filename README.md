@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 - [MHMITHUN starred shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
 - [MHMITHUN starred RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
 - [MHMITHUN starred msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 - [MHMITHUN starred filiksyos/gitreverse](https://github.com/filiksyos/gitreverse)
-- [MHMITHUN starred bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 <!-- activity:END -->
 
 <br>
