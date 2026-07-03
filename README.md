@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
-- [MHMITHUN starred shahtab123/DHAKA-mrt-AR](https://github.com/shahtab123/DHAKA-mrt-AR)
-- [MHMITHUN starred dockur/macos](https://github.com/dockur/macos)
-- [MHMITHUN starred nawaz0x1/Bengali-BPE-Tokenizer](https://github.com/nawaz0x1/Bengali-BPE-Tokenizer)
-- [MHMITHUN starred VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-- [MHMITHUN starred shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
+- [MHMITHUN starred ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [MHMITHUN starred alibaba/page-agent](https://github.com/alibaba/page-agent)
+- [MHMITHUN starred Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
+- [MHMITHUN starred colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+- [MHMITHUN starred safishamsi/graphify](https://github.com/safishamsi/graphify)
 <!-- activity:END -->
 
 <br>
