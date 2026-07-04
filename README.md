@@ -74,7 +74,7 @@
 - [MHMITHUN starred alibaba/page-agent](https://github.com/alibaba/page-agent)
 - [MHMITHUN starred Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 - [MHMITHUN starred colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-- [MHMITHUN starred safishamsi/graphify](https://github.com/safishamsi/graphify)
+- [MHMITHUN starred Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
 <!-- activity:END -->
 
 <br>
