@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN pushed PortSwigger-Labs-Solutions-Using-Burp-Suite-for-Cybersecurity-and-Digital-Forensics](https://github.com/MHMITHUN/PortSwigger-Labs-Solutions-Using-Burp-Suite-for-Cybersecurity-and-Digital-Forensics/compare/7621e0ef03...a962a546f7)
+- [MHMITHUN pushed PortSwigger-Labs-Solutions-Using-Burp-Suite-for-Cybersecurity-and-Digital-Forensics](https://github.com/MHMITHUN/PortSwigger-Labs-Solutions-Using-Burp-Suite-for-Cybersecurity-and-Digital-Forensics/compare/edd947083d...7621e0ef03)
 - [MHMITHUN created a branch](https://github.com/MHMITHUN/PortSwigger-Labs-Solutions-Using-Burp-Suite-for-Cybersecurity-and-Digital-Forensics/compare/0000000000...edd947083d)
 - [MHMITHUN starred markfulton/claude-antigravity-agents](https://github.com/markfulton/claude-antigravity-agents)
 - [MHMITHUN starred TahsinArafat/sleepy-code](https://github.com/TahsinArafat/sleepy-code)
-- [MHMITHUN starred ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- [MHMITHUN starred alibaba/page-agent](https://github.com/alibaba/page-agent)
 <!-- activity:END -->
 
 <br>
