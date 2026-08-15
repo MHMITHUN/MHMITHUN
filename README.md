@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred github/github-mcp-server](https://github.com/github/github-mcp-server)
 - [MHMITHUN starred usestrix/strix](https://github.com/usestrix/strix)
 - [MHMITHUN starred Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [MHMITHUN starred shovoalways/wordpress-next](https://github.com/shovoalways/wordpress-next)
 - [MHMITHUN starred WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)
-- [MHMITHUN starred oso95/scroll-world](https://github.com/oso95/scroll-world)
 <!-- activity:END -->
 
 <br>
