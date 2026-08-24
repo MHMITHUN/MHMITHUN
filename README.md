@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred AmitGurbani/mcp-server-woocommerce](https://github.com/AmitGurbani/mcp-server-woocommerce)
 - [MHMITHUN starred wpexpertinbd/BHUninstaller](https://github.com/wpexpertinbd/BHUninstaller)
 - [MHMITHUN starred affaan-m/ECC](https://github.com/affaan-m/ECC)
 - [MHMITHUN forked MHMITHUN/Wordpress-Core-Develop from WordPress/wordpress-develop](https://github.com/MHMITHUN/Wordpress-Core-Develop)
 - [MHMITHUN starred WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
-- [MHMITHUN starred ddev/ddev](https://github.com/ddev/ddev)
 <!-- activity:END -->
 
 <br>
