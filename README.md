@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred Prof-MAN9/OpenBrowser](https://github.com/Prof-MAN9/OpenBrowser)
 - [MHMITHUN starred mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)
 - [MHMITHUN starred emilkowalski/skills](https://github.com/emilkowalski/skills)
 - [MHMITHUN starred wpexpertinbd/BHServe](https://github.com/wpexpertinbd/BHServe)
 - [MHMITHUN starred AmitGurbani/mcp-server-woocommerce](https://github.com/AmitGurbani/mcp-server-woocommerce)
-- [MHMITHUN starred wpexpertinbd/BHUninstaller](https://github.com/wpexpertinbd/BHUninstaller)
 <!-- activity:END -->
 
 <br>
