@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred usebruno/bruno](https://github.com/usebruno/bruno)
+- [MHMITHUN starred MHMITHUN/PrayerTime-Extension](https://github.com/MHMITHUN/PrayerTime-Extension)
 - [MHMITHUN starred kumaresankp/kaggle_32gpu_free](https://github.com/kumaresankp/kaggle_32gpu_free)
 - [MHMITHUN starred WordPress/contributor-toolkit](https://github.com/WordPress/contributor-toolkit)
 - [MHMITHUN starred woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
-- [MHMITHUN pushed MHMITHUN](https://github.com/MHMITHUN/MHMITHUN/compare/d9017f71eb...b196f39746)
-- [MHMITHUN pushed Wordpress-Core-Develop](https://github.com/MHMITHUN/Wordpress-Core-Develop/compare/7450652c37...8fdd47edbc)
 <!-- activity:END -->
 
 <br>
