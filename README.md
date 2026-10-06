@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred askimo-ai/askimo](https://github.com/askimo-ai/askimo)
 - [MHMITHUN created a branch](https://github.com/MHMITHUN/Playwright-Automation-Assessment/compare/0000000000...1bd4337f7a)
 - [MHMITHUN starred usebruno/bruno](https://github.com/usebruno/bruno)
 - [MHMITHUN starred MHMITHUN/PrayerTime-Extension](https://github.com/MHMITHUN/PrayerTime-Extension)
 - [MHMITHUN starred kumaresankp/kaggle_32gpu_free](https://github.com/kumaresankp/kaggle_32gpu_free)
-- [MHMITHUN starred WordPress/contributor-toolkit](https://github.com/WordPress/contributor-toolkit)
 <!-- activity:END -->
 
 <br>
