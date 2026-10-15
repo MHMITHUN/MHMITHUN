@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred nikolabaska/qa-buddy-ai](https://github.com/nikolabaska/qa-buddy-ai)
 - [MHMITHUN starred microsoft/playwright.dev](https://github.com/microsoft/playwright.dev)
 - [MHMITHUN starred storytold/deckcraft](https://github.com/storytold/deckcraft)
 - [MHMITHUN starred storytold/gridcraft](https://github.com/storytold/gridcraft)
 - [MHMITHUN starred storytold/wordcraft](https://github.com/storytold/wordcraft)
-- [MHMITHUN starred rakibkhanofficial/multigravity-duo](https://github.com/rakibkhanofficial/multigravity-duo)
 <!-- activity:END -->
 
 <br>
