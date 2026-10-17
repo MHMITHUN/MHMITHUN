@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred deepakkamboj/playwright-ai-reporter](https://github.com/deepakkamboj/playwright-ai-reporter)
 - [MHMITHUN starred webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
 - [MHMITHUN starred nikolabaska/qa-buddy-ai](https://github.com/nikolabaska/qa-buddy-ai)
 - [MHMITHUN starred microsoft/playwright.dev](https://github.com/microsoft/playwright.dev)
 - [MHMITHUN starred storytold/deckcraft](https://github.com/storytold/deckcraft)
-- [MHMITHUN starred storytold/gridcraft](https://github.com/storytold/gridcraft)
 <!-- activity:END -->
 
 <br>
