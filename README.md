@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
-- [MHMITHUN pushed Digital-NOC-QR-Verification-Portal](https://github.com/MHMITHUN/Digital-NOC-QR-Verification-Portal/compare/31a26fb29d...9c34d86487)
-- [MHMITHUN pushed Digital-NOC-QR-Verification-Portal](https://github.com/MHMITHUN/Digital-NOC-QR-Verification-Portal/compare/5c46d6b9cc...31a26fb29d)
-- [MHMITHUN pushed Digital-NOC-QR-Verification-Portal](https://github.com/MHMITHUN/Digital-NOC-QR-Verification-Portal/compare/bf08e21c65...7c988ee60f)
-- [MHMITHUN pushed Digital-NOC-QR-Verification-Portal](https://github.com/MHMITHUN/Digital-NOC-QR-Verification-Portal/compare/4ef8072e12...bf08e21c65)
-- [MHMITHUN starred mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server)
+- [MHMITHUN pushed hsc-ssc-ict-c-programming-lab](https://github.com/MHMITHUN/hsc-ssc-ict-c-programming-lab/compare/d71ab33c6c...8b0aeaa37e)
+- [MHMITHUN pushed cp-olympiad-training-arena](https://github.com/MHMITHUN/cp-olympiad-training-arena/compare/5e70ec6ba0...8bd5c6186f)
+- [MHMITHUN pushed smart-ict-ai-teacher-copilot](https://github.com/MHMITHUN/smart-ict-ai-teacher-copilot/compare/c8705f46c4...b8a354db8d)
+- [MHMITHUN pushed hsc-ssc-ict-c-programming-lab](https://github.com/MHMITHUN/hsc-ssc-ict-c-programming-lab/compare/cc1de487c2...fff7e1469e)
+- [MHMITHUN created a branch](https://github.com/MHMITHUN/cp-olympiad-training-arena/compare/0000000000...98536ec08b)
 <!-- activity:END -->
 
 <br>
