@@ -72,9 +72,9 @@
 <!-- activity:START -->
 - [MHMITHUN pushed hsc-ssc-ict-c-programming-lab](https://github.com/MHMITHUN/hsc-ssc-ict-c-programming-lab/compare/d71ab33c6c...8b0aeaa37e)
 - [MHMITHUN pushed cp-olympiad-training-arena](https://github.com/MHMITHUN/cp-olympiad-training-arena/compare/5e70ec6ba0...8bd5c6186f)
+- [MHMITHUN pushed edupress-school-portal](https://github.com/MHMITHUN/edupress-school-portal/compare/a609c56ac2...a96edee14f)
 - [MHMITHUN pushed smart-ict-ai-teacher-copilot](https://github.com/MHMITHUN/smart-ict-ai-teacher-copilot/compare/c8705f46c4...b8a354db8d)
-- [MHMITHUN pushed hsc-ssc-ict-c-programming-lab](https://github.com/MHMITHUN/hsc-ssc-ict-c-programming-lab/compare/cc1de487c2...fff7e1469e)
-- [MHMITHUN created a branch](https://github.com/MHMITHUN/cp-olympiad-training-arena/compare/0000000000...98536ec08b)
+- [MHMITHUN pushed edupress-school-portal](https://github.com/MHMITHUN/edupress-school-portal/compare/ee6d3ea81f...a609c56ac2)
 <!-- activity:END -->
 
 <br>
