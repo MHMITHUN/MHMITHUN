@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN pushed edutrack-student-management-system](https://github.com/MHMITHUN/edutrack-student-management-system/compare/403b0ae66b...475b71e6e2)
 - [MHMITHUN pushed hsc-ssc-ict-c-programming-lab](https://github.com/MHMITHUN/hsc-ssc-ict-c-programming-lab/compare/d71ab33c6c...8b0aeaa37e)
 - [MHMITHUN pushed smart-ict-ai-teacher-copilot](https://github.com/MHMITHUN/smart-ict-ai-teacher-copilot/compare/6b41831916...75888f8aaa)
+- [MHMITHUN pushed smart-ict-ai-teacher-copilot](https://github.com/MHMITHUN/smart-ict-ai-teacher-copilot/compare/864e039475...6b41831916)
 - [MHMITHUN pushed cp-olympiad-training-arena](https://github.com/MHMITHUN/cp-olympiad-training-arena/compare/5e70ec6ba0...8bd5c6186f)
-- [MHMITHUN pushed edupress-school-portal](https://github.com/MHMITHUN/edupress-school-portal/compare/a609c56ac2...a96edee14f)
-- [MHMITHUN pushed smart-ict-ai-teacher-copilot](https://github.com/MHMITHUN/smart-ict-ai-teacher-copilot/compare/c8705f46c4...b8a354db8d)
 <!-- activity:END -->
 
 <br>
