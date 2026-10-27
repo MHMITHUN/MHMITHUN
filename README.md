@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred fredfokan/web-crawler](https://github.com/fredfokan/web-crawler)
 - [MHMITHUN starred ix-infrastructure/Ix](https://github.com/ix-infrastructure/Ix)
 - [MHMITHUN starred hassan-algo/open-sesame](https://github.com/hassan-algo/open-sesame)
 - [MHMITHUN starred HarunRRayhan/content-machine](https://github.com/HarunRRayhan/content-machine)
 - [MHMITHUN pushed edutrack-student-management-system](https://github.com/MHMITHUN/edutrack-student-management-system/compare/403b0ae66b...475b71e6e2)
-- [MHMITHUN pushed edupress-school-portal](https://github.com/MHMITHUN/edupress-school-portal/compare/a96edee14f...fed45c656e)
 <!-- activity:END -->
 
 <br>
