@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred rafiulalamantar/qa-practice-lab](https://github.com/rafiulalamantar/qa-practice-lab)
 - [MHMITHUN starred hungry-detective/downloadcraft](https://github.com/hungry-detective/downloadcraft)
 - [MHMITHUN closed an issue in claude-code](https://github.com/anthropics/claude-code/issues/105397)
 - [MHMITHUN closed an issue in claude-code](https://github.com/anthropics/claude-code/issues/105397)
 - [MHMITHUN labeled an issue in claude-code](https://github.com/anthropics/claude-code/issues/105397)
-- [MHMITHUN opened an issue in claude-code](https://github.com/anthropics/claude-code/issues/105397)
 <!-- activity:END -->
 
 <br>
