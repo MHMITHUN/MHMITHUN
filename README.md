@@ -70,11 +70,11 @@
 </div>
 
 <!-- activity:START -->
+- [MHMITHUN starred VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+- [MHMITHUN starred Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [MHMITHUN pushed FinFlow-MFS-Digital-Wallet-PRD](https://github.com/MHMITHUN/FinFlow-MFS-Digital-Wallet-PRD/compare/6c47267927...84da871c08)
 - [MHMITHUN pushed CogniFlow-AI-Copilot-Engine](https://github.com/MHMITHUN/CogniFlow-AI-Copilot-Engine/compare/bbfe5a0ccf...70bef39d33)
 - [MHMITHUN created a branch](https://github.com/MHMITHUN/FinFlow-MFS-Digital-Wallet-PRD/compare/0000000000...ad702a2440)
-- [MHMITHUN starred rafiulalamantar/qa-practice-lab](https://github.com/rafiulalamantar/qa-practice-lab)
-- [MHMITHUN starred hungry-detective/downloadcraft](https://github.com/hungry-detective/downloadcraft)
 <!-- activity:END -->
 
 <br>
